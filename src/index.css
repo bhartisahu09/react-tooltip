@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      background-image: url( https://img.freepik.com/free-vector/geometric-abstract-background_826849-5534.jpg?w=900&t=st=1711721554~exp=1711722154~hmac=57015ec37734aea400962fe84102b6fc7e37769a9337c9213bcbb8fdd218dc59);
+     
+      background-size: 106%;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
